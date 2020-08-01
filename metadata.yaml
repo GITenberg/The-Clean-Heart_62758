@@ -1,0 +1,36 @@
+_repo: The-Clean-Heart_62758
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Crosby, Raymond Moreau
+    alias: Crosby, R. M. (Raymond Moreau)
+    birthdate: 1876
+    deathdate: 1945
+    gutenberg_agent_id: '25177'
+    url: http://www.gutenberg.org/2009/agents/25177
+creator:
+  author:
+    agent_name: Hutchinson, A. S. M. (Arthur Stuart-Menteth)
+    alias: Hutchinson, Arthur Stuart-Menteth
+    birthdate: 1880
+    deathdate: 1971
+    gutenberg_agent_id: '2028'
+    url: http://www.gutenberg.org/2009/agents/2028
+    wikipedia: https://en.wikipedia.org/wiki/A._S._M._Hutchinson
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62758'
+  lccn: '14016203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Happiness -- Fiction'
+- GITenberg
+title: The Clean Heart
+url: http://www.gutenberg.org/ebooks/62758
